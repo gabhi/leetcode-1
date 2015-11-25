@@ -1,7 +1,3 @@
-package leetcode;
-
-import java.util.*;
-
 /*
  * NQueens
  * 
@@ -10,6 +6,8 @@ import java.util.*;
  * Start going back when we reach row n.
  * Just FYI, if using HashSet, running time will be at least 3 times slower!
  */
+
+import java.util.*;
 
 public class NQueens {
     int count = 0;
@@ -34,4 +32,6 @@ public class NQueens {
             cols[col] = false; d1[id1] = false; d2[id2] = false;
         }
     }
+
+    public static void main(String[] args) {}   
 }

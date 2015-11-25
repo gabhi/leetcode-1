@@ -1,4 +1,3 @@
-package leetcode;
 /*
 https://leetcode.com/discuss/69572/easiest-java-solution-written-in-10-mins
 
@@ -65,4 +64,6 @@ public class NumberOfIsland2 {
         while(id != roots[id]) id = roots[id];
         return id;
     }
+
+    public static void main(String[] args) {}   
 }

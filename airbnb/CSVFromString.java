@@ -1,3 +1,5 @@
+package companies.airbnb;
+
 // https://hellosmallworld123.wordpress.com/2015/09/04/abnb-%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/
 /*
 Parse CSV
@@ -78,7 +80,7 @@ import java.util.*;
  * If you need more classes, simply define them inline.
  */
 
-class Solution {
+class CSVFromString {
   //12:11
 //   例子
 // aa, bb, "aa","aa,aa,bb,cc", "aa"aa""

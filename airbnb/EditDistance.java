@@ -1,3 +1,5 @@
+package companies.airbnb;
+
 /*
 题目是给定一个word list 和一个target word，要求输出在word list 里跟target 
 word的edit distance 相差不大于k的所有words。我写了一个基于edit distance的解 

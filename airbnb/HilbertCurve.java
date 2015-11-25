@@ -1,3 +1,4 @@
+package companies.airbnb;
 import java.io.*;
 import java.util.*;
 
@@ -24,7 +25,7 @@ import java.util.*;
 3 
 */
 
-class Solution {
+class HilbertCurve {
 
 
   public static int[][] generateHC(int n) {

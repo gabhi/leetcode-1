@@ -2,6 +2,9 @@
 
 This repository contains the most popular programming questions. Here I try to give my most clean, readable, and optimized solution. Enjoy!
 
+# Find me here
+https://leetcode.com/discuss/user/yavinci
+
 # Install JAVA in sublime text
 
 1. Click menu `Tool -> Build System -> New Build System`

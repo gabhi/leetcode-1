@@ -1,16 +1,16 @@
 # About
 
-This repository contains the most popular programming questions. Here I try to give my most clean, readable, and optimized solution. Enjoy!
+The most popular programming questions with concise & optimized solutions. Enjoy!
 
-# Find me here
+# Find me
 
 https://leetcode.com/discuss/user/yavinci
 https://leetcode.com/discuss/users
 
 # Install Java in sublime text
 
-1. Click menu `Tool -> Build System -> New Build System`
-2. Save the followings as `Java.sublime-build`
+* Click menu `Tool -> Build System -> New Build System`
+* Save the followings as `Java.sublime-build`
 ```
 {
 	"cmd": "javac $file_name && java $file_base_name", 
@@ -18,5 +18,5 @@ https://leetcode.com/discuss/users
 	"shell": true 
 }
 ```
-3. Use `command + B` to build & run your JAVA code
+* Use `command + B` to build & run your Java code
 
